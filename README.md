@@ -3,7 +3,7 @@
 
 ## Codigo original obtenido de https://www.thesecuritybuddy.com/cryptography-and-python/how-to-encrypt-and-decrypt-an-image-using-python/
 
-### Ese fuela pagina que usé para obtener el ejemplo, lo que hace es cifrar una imagen utilizando el algoritmo AES en modo CBC (Cipher Block Chaining). Solo que tuve que modificar y agregar ciertas cosas para que el código funcione bien.
+### Ese fue la pagina que usé para obtener el ejemplo, lo que hace es cifrar una imagen utilizando el algoritmo AES en modo CBC (Cipher Block Chaining). Solo que tuve que modificar y agregar ciertas cosas para que el código funcione bien.
 
 ### Primero importamos los módulos necesarios (os y Crypto.Cipher.AES).
 
